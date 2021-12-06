@@ -84,4 +84,3 @@ result = 0
 for c in used_coordinates_count.values():
     if c > 1:
         result += 1
-print(result)
